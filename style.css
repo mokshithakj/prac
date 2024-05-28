@@ -11,6 +11,6 @@ min-height: 120vh; }
 .image {display: flex;justify-content: center;display: block;margin-left: auto;margin-right: auto;}
 
 
-.title {font: bolder;text-align: center;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
-.quote {text-align: center;font-family: Georgia, 'Times New Roman', Times, serif;font-size: xx-small;}
-.content {margin: 45px ;}
+.title {font: bolder;text-align: center;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 44px}
+.quote {text-align: center;font-family: Georgia, 'Times New Roman', Times, serif;font-size:20px;;}
+.content {margin: 45px ;font-size: 30px;}
